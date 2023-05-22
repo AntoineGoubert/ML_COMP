@@ -2,7 +2,7 @@
 
 ## Kaggle Link :
 
-https://www.kaggle.com/antoinegoubert/ml-comp/edit
+https://www.kaggle.com/antoinegoubert/ml-comp
 
 ### Data Import and Transformation
 
